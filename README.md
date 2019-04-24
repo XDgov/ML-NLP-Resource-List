@@ -16,14 +16,14 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 
 ### Free-text to automatically assign codes (aka autocoding)
 #### Within gov
-1. (BLS) Measure, Alex (2017). Deep neural networks for worker injury autocoding.
-1. (BLS) Measure, Alex (2014). Automatic coding of worker injury narratives.  Basis for 1.
-1. (Census) Dumbacher, Brian; Hanna, Demetria (2017). Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys.
+1. (BLS) Measure, Alex (2017). [Deep neural networks for worker injury autocoding](https://www.bls.gov/iif/deep-neural-networks.pdf). 
+1. (BLS) Measure, Alex (2014). [Automatic coding of worker injury narratives](https://www.bls.gov/osmr/pdf/st140040.pdf).  Basis for 1.
+1. (Census) Dumbacher, Brian; Hanna, Demetria (2017). [Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys](https://www.census.gov/content/dam/Census/newsroom/press-kits/2017/jsm/jsm-presentation-dumbacher-hanna.pdf).
 1. (BLS) Measure, Alex. "Autocoding Class." https://github.com/ameasure/autocoding-class
 #### Outside gov
-1. Skinner, Michael (2018). Product categorization with LSTMs and balanced pooling views.
+1. Skinner, Michael (2018). [Product categorization with LSTMs and balanced pooling views](https://sigir-ecom.github.io/ecom18DCPapers/ecom18DC_paper_9.pdf).
 1. Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
-1. Ding, Liya et al. (2015). Auto-Categorization of HS Code Using Background Net Approach. 
+1. Ding, Liya et al. (2015). [Auto-Categorization of HS Code Using Background Net Approach](https://www.sciencedirect.com/science/article/pii/S1877050915023510). 
 
 ### General text processing + classification
 4. Banks, Duren et al. Arrest-Related Deaths Program Redesign Study \[by mining news coverage]: https://www.bjs.gov/content/pub/pdf/ardprs1516pf.pdf
