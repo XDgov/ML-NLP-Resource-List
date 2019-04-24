@@ -12,6 +12,7 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 3. Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., & Fei-Fei, L. (2015). Visual census: Using cars to study people and society. Bigvision. 
 
 
+
 ### Free-text to automatically assign codes (aka autocoding)
 #### Within gov
 1. (BLS) Measure, Alex (2017). Deep neural networks for worker injury autocoding.
@@ -23,6 +24,8 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 1. Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
 1. Ding, Liya et al. (2015). Auto-Categorization of HS Code Using Background Net Approach. 
 
+### General text processing + classification
+4. Banks, Duren et al. Arrest-Related Deaths Program Redesign Study \[by mining news coverage]: https://www.bjs.gov/content/pub/pdf/ardprs1516pf.pdf
 
 ### Amazon Mechanical Turk / Active Learning for better training data
 #### Within Gov
