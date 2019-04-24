@@ -10,7 +10,8 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 1. Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., Aiden, E. L., & Fei-Fei, L. (2017). Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States. Proceedings of the National Academy of Sciences, 114(50), 13108-13113.
 2. Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., Aiden, E. L., & Fei-Fei, L. (2017). Using deep learning and google street view to estimate the demographic makeup of the us. arXiv preprint arXiv:1702.06683.  (arxiv version of below paper)
 3. Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., & Fei-Fei, L. (2015). Visual census: Using cars to study people and society. Bigvision. 
-
+4. Chew, Rob et al. Toward Model-Generated Household Listing in Low- and Middle-Income Countries Using Deep Learning. https://www.mdpi.com/2220-9964/7/11/448
+5. Chew, Rob et al. Residential scene classification for gridded  population sampling in developing countries using deep convolutional neural networks on satellite imagery https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-018-0132-1
 
 
 ### Free-text to automatically assign codes (aka autocoding)
@@ -29,10 +30,11 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 
 ### Amazon Mechanical Turk / Active Learning for better training data
 #### Within Gov
-1. Pierce, Cynthia et al. (2013). Crowd Sourcing data through Amazon Mechanical Turk. 
+1. Pierce, Cynthia et al. (2013). Crowd Sourcing data through Amazon Mechanical Turk.
+2. Chew, Rob et al. SMART: a platform for labelling data. https://rtiinternational.github.io/SMART/   ([arXiv paper](https://arxiv.org/pdf/1812.06591.pdf) as well).
 #### Outside Gov
 1. Settles, Burr (2010). Active Learning.
-
+ 
 ### MTurk for Survey Pretesting
 1. (BLS) Yu, Erica et al., 2015: https://www.bls.gov/osmr/pdf/st150260.pdf
 1. (NCI), Fowler, Stephanie et al., 2015: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/242/2016/03/C2_Fowler_2015FCSM.pdf
@@ -44,7 +46,12 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 1. (ORNL) Wang, Chieh (Ross) et al. : Web Scraping rail photos to track crude oil shipments. http://onlinepubs.trb.org/onlinepubs/Conferences/2019/FreightData/CrudebyRailRoutesWang.pdf
 1. (Census) Dumbacher, Brian et al. : Scraping Assisted By Learning. https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/jsm/jsm-presentation-web-scraping.pdf
 
-#### ML fairness/algorithmic bias (not govt specific):
+
+
+### Network Analysis
+1. Chew, Rob et al. : Assessing Target Audiences of Digital Public Health Campaigns. https://link.springer.com/chapter/10.1007%2F978-3-319-93372-6_32  (if curious, please feel free to reach out for more info!)
+
+### ML fairness/algorithmic bias (not govt specific):
 
 1. UK House of Commons Science and Technology Committee: “Algorithms in Decision Making”
 1. ACM Conference on Fairness, Accountability, and Transparency  (“FATML”)
