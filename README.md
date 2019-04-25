@@ -20,6 +20,7 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 1. (BLS) Measure, Alex (2014). [Automatic coding of worker injury narratives](https://www.bls.gov/osmr/pdf/st140040.pdf).  Basis for 1.
 1. (Census) Dumbacher, Brian; Hanna, Demetria (2017). [Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys](https://www.census.gov/content/dam/Census/newsroom/press-kits/2017/jsm/jsm-presentation-dumbacher-hanna.pdf).
 1. (BLS) Measure, Alex. "Autocoding Class." https://github.com/ameasure/autocoding-class
+1. (Census) Moscardi, Christian et al. [Using NLP to improve the Commodity Flow Survey](http://onlinepubs.trb.org/onlinepubs/Conferences/2019/FreightData/UsingApplicationstoImprovetheCFSMoscardi.pdf)
 #### Outside gov
 1. Skinner, Michael (2018). [Product categorization with LSTMs and balanced pooling views](https://sigir-ecom.github.io/ecom18DCPapers/ecom18DC_paper_9.pdf).
 1. Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
