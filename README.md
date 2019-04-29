@@ -21,6 +21,7 @@ This is in very early stages! Please reach out to christian.l.moscardi@census.go
 1. (Census) Dumbacher, Brian; Hanna, Demetria (2017). [Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys](https://www.census.gov/content/dam/Census/newsroom/press-kits/2017/jsm/jsm-presentation-dumbacher-hanna.pdf).
 1. (BLS) Measure, Alex. "Autocoding Class." https://github.com/ameasure/autocoding-class
 1. (Census) Moscardi, Christian et al. [Using NLP to improve the Commodity Flow Survey](http://onlinepubs.trb.org/onlinepubs/Conferences/2019/FreightData/UsingApplicationstoImprovetheCFSMoscardi.pdf)
+1. (Census) Cuffe, John et al. [Using Public Data to Generate Industrial Classification Codes](http://papers.nber.org/conf_papers/f110700.pdf) and [slides](https://www.nber.org/conf_papers/f110700/f110700.slides.pptx)
 #### Outside gov
 1. Skinner, Michael (2018). [Product categorization with LSTMs and balanced pooling views](https://sigir-ecom.github.io/ecom18DCPapers/ecom18DC_paper_9.pdf).
 1. Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
