@@ -1,7 +1,7 @@
 # ML-NLP-Resource-List
 The purpose of this repo is to provide information / links to people, papers, projects, and code involving using novel data methods, ML, NLP, etc. in government.
 
-This is in very early stages! Please reach out to christian.l.moscardi@census.gov -- or, just go ahead and submit a Pull Request -- if you've got anything that you'd like to be added to this list.
+This is in very early stages! Please reach out to inquiries@xd.gov OR christian.l.moscardi@census.gov -- or, just go ahead and submit a Pull Request -- if you've got anything that you'd like to be added to this list.
 
 ## Resource List
 
