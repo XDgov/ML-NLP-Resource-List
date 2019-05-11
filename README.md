@@ -65,7 +65,7 @@ This is in very early stages! Please reach out to inquiries@xd.gov OR christian.
 
 1. NVIDIA Conference https://www.nvidia.com/en-us/gtc-dc/ November 2019 in Washington, DC (free registration for feds) 
 2. Systems@Scale Conference, https://atscaleconference.com/ (Next: June 6, 2019 in San Jose)
-3. O'Reilly Machine Learning Conference Series (several times in year in different cities)
+3. O'Reilly Artificail Intelligence Conference Series, https://www.oreilly.com/conferences/ (several times in year in different cities)
 4. Stata Data Conference Series (several times a year in different cities)
 5. PyData Confernce
 6. Strangeloop, September 2019, St. Louis, Missouri
